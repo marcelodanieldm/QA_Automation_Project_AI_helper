@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "playwright-browser-agent": {
+      "command": "npx",
+      "args": ["-y", "@microsoft/playwright-mcp"],
+      "description": "Permite al agente abrir navegadores, inspeccionar el DOM y tomar screenshots."
+    }
+  }
+}
