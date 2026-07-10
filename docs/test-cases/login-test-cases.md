@@ -50,7 +50,7 @@ Validate the authentication flow at `https://www.saucedemo.com/` for valid users
 - The products page is displayed with the title `Products`.
 - The main menu and product list are visible.
 
-### TC-LOGIN-002 - Login rejected for locked-out user
+### TC-LOGIN-002 - Login rejected for locked-out user (`locked_out_user`)
 
 **Priority:** High  
 **Type:** Negative
